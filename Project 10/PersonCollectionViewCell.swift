@@ -10,5 +10,4 @@ import UIKit
 class PersonCollectionViewCell: UICollectionViewCell {
     @IBOutlet var imageView: UIImageView!
     @IBOutlet var name: UILabel!
-    
 }

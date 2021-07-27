@@ -15,5 +15,4 @@ class Person: NSObject {
         self.name = name
         self.image = image
     }
-
 }
