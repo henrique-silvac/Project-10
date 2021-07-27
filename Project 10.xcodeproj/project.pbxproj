@@ -14,6 +14,7 @@
 		0B79DFED26B07B11008E03B8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0B79DFEC26B07B11008E03B8 /* Assets.xcassets */; };
 		0B79DFF026B07B11008E03B8 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0B79DFEE26B07B11008E03B8 /* LaunchScreen.storyboard */; };
 		0B79DFF926B08355008E03B8 /* PersonCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0B79DFF826B08355008E03B8 /* PersonCollectionViewCell.swift */; };
+		0B79DFFD26B0A414008E03B8 /* Person.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0B79DFFC26B0A414008E03B8 /* Person.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		0B79DFEF26B07B11008E03B8 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		0B79DFF126B07B11008E03B8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		0B79DFF826B08355008E03B8 /* PersonCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PersonCollectionViewCell.swift; sourceTree = "<group>"; };
+		0B79DFFC26B0A414008E03B8 /* Person.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Person.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +64,7 @@
 				0B79DFE526B07B0D008E03B8 /* SceneDelegate.swift */,
 				0B79DFE726B07B0D008E03B8 /* ViewController.swift */,
 				0B79DFF826B08355008E03B8 /* PersonCollectionViewCell.swift */,
+				0B79DFFC26B0A414008E03B8 /* Person.swift */,
 				0B79DFE926B07B0D008E03B8 /* Main.storyboard */,
 				0B79DFEC26B07B11008E03B8 /* Assets.xcassets */,
 				0B79DFEE26B07B11008E03B8 /* LaunchScreen.storyboard */,
@@ -140,6 +143,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0B79DFFD26B0A414008E03B8 /* Person.swift in Sources */,
 				0B79DFE826B07B0D008E03B8 /* ViewController.swift in Sources */,
 				0B79DFE426B07B0D008E03B8 /* AppDelegate.swift in Sources */,
 				0B79DFE626B07B0D008E03B8 /* SceneDelegate.swift in Sources */,
